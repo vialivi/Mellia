@@ -1,0 +1,46 @@
+{
+  "brand_name": "Camell Flowrist",
+  "tagline": "Whimsical Bouquets, Hampers & Natural Botanicals",
+  "context": "Garden boutique landing page with WhatsApp CTA, custom order builder, catalog, testimonials, and FAQ",
+  "aesthetic": {
+    "archetype": "Organic & Earthy (Garden Boutique)",
+    "primary_color": "#4A6B5B",
+    "secondary_color": "#F4F1EA",
+    "accent_color": "#D4A373",
+    "background_color": "#FAF8F5",
+    "text_color": "#2C3E35"
+  },
+  "typography": {
+    "headings": "Playfair Display, serif",
+    "body": "Plus Jakarta Sans, sans-serif"
+  },
+  "contact": {
+    "whatsapp": "+62 858-0671-3379",
+    "whatsapp_url": "https://wa.me/6285806713379",
+    "instagram": "@camell_flowrist",
+    "instagram_url": "https://www.instagram.com/camell_flowrist",
+    "tiktok": "@camell_flowrist",
+    "tiktok_url": "https://www.tiktok.com/@camell_flowrist"
+  },
+  "image_urls": {
+    "hero_bouquet": "https://images.unsplash.com/photo-1706170498508-849cf2e1891c",
+    "hampers_box": "https://images.unsplash.com/photo-1759420303135-0224b8d9b798",
+    "botanical_studio": "https://images.unsplash.com/photo-1697307396671-df38b503ba12",
+    "floral_detail": "https://images.unsplash.com/photo-1532348476153-ae762e3f3bc2",
+    "luxury_box": "https://images.pexels.com/photos/18530980/pexels-photo-18530980.jpeg"
+  },
+  "key_features": [
+    "Kinetic hero with masked line-by-line reveal & WhatsApp priority CTA",
+    "Editorial marquee ribbon with botanical highlights",
+    "Interactive product catalog filtered by Bouquets, Hampers, and Flowers",
+    "Custom Order Builder with instant WhatsApp checkout estimation",
+    "Customer testimonials with verified review badges",
+    "Accordion FAQ covering same-day delivery & custom arrangements",
+    "Floating WhatsApp quick chat button"
+  ],
+  "accessibility": {
+    "contrast_ratio": "WCAG AA compliant (>4.5:1 for body text)",
+    "focus_states": "High-contrast ring indicators with custom sage outlines",
+    "reduced_motion": "Supported via Tailwind and Framer Motion hooks"
+  }
+}
